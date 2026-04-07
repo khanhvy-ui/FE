@@ -1,0 +1,28 @@
+/******* Customized Bootstrap (FIXED FOR TECH) ********/
+
+$primary: #0d6efd;     // xanh dương (tech)
+$secondary: #6c757d;   // xám trung tính
+$light: #f5f5f7;       // nền sáng nhẹ
+$dark: #1d1d1f;        // text chính
+
+$font-family-base: 'Open Sans', sans-serif;
+$headings-font-family: 'Raleway', sans-serif;
+
+$body-color: #6e6e73;  // text phụ
+$headings-color: $dark;
+
+$headings-font-weight: 600;
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 12px;
+
+$border-radius-sm: $border-radius;
+$border-radius-lg: $border-radius;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+@import "bootstrap/scss/bootstrap";
